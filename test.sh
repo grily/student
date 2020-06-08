@@ -1,3 +1,4 @@
 #!/bin/sh
 
-echo 'echo world'
+echo 'echo world1'
+echo 'test1'
